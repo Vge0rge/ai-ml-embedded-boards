@@ -58,10 +58,13 @@
 
 > NOTE: The Espressif AI accelerator PIE has different capabilities on the ESP32-S3 and the ESP32-P4 boards. Espressif documented the changes in their blog: [Espressif](https://developer.espressif.com/blog/2024/12/pie-introduction/) 
 
-
 - NUCLEO-N657X0-Q
   - MCU: STM32N657X0 (1 x ARM Cortex-M55 and ST Neural-ART Accelerator)
   - Price: ~55 usd [ST](https://www.st.com/en/evaluation-tools/nucleo-n657x0-q.html#overview)
+
+- LAUNCHXL-F28P55X
+  - MCU: TMS320F28P550SJ9 (1 x C28x 32-bit DSP CPU & NPU)
+  - Price: ~30 usd [TI](https://www.ti.com/tool/LAUNCHXL-F28P55X#tech-docs))
  
 - STM32N6570-DK
   - MCU: STM32N657X0H3Q (1 x ARM Cortex-M55 and ST Neural-ART Accelerator)
@@ -70,8 +73,11 @@
 - 01Studio CanMV K230 Development Board
   - MCU: CanMV K230 (1 x 64-bit RISC-V (up to 1.6GHz), 1 x 64-bit RISC-V 800 MHz and KPU (Knowledge Process Unit) AI accelerator)
   - Price: ~55 usd [Aliexpress](https://www.aliexpress.com/item/1005007573129445.html)
- 
-  
+
+- Sipeed Maix Bit
+  - MCU: CanMV K210 (2 x 64-bit RISC-V and KPU (Knowledge Process Unit) AI accelerator)
+  - Price: ~26 usd [Aliexpress](https://www.aliexpress.com/item/1005002547039100.html)
+    
 - MAX78000FTHR
   - MCU: Analog Devices MAX78000 (1 x ARM Cortex-M4 & In-house Neural Network Accelerator)
   - Price: ~28 usd [Analog Devices](https://www.analog.com/en/products/max78000.html#evaluation-kit)
