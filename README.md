@@ -85,6 +85,10 @@
 - Arduino Nicla Voice
   -  MCU: nRF52832 (1 X ARM Cortex-M4), Syntiant NDP120 (1 x ARM Cortex-M0, 1 x Syntiant Core 2 Neural Decision Processor)
   -  Price: ~70 usd [Arduino](https://store.arduino.cc/products/nicla-voice)
+ 
+- SiLabs NxG24-DK2601B
+  -  MCU: nRF52832 (1 X ARM Cortex-M33) & In-house Neural Network Accelerator
+  -  Price: ~69 usd [SiLabs](https://www.silabs.com/development-tools/wireless/efr32xg24-dev-kit)
 
 -  AVNet AES-RASYNB-120-SK-G
     -  MCU: Renesas RA6M4 (1 x Cortex-M4), Syntiant NDP120 (1 x ARM Cortex-M0, 1 x Syntiant Core 2 Neural Decision Processor)
